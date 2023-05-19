@@ -20,8 +20,8 @@ The Findings of the project are:
 1. Year Which Has Highest suicides_no :  1994
    Year Which Has Lowest suicides_no  :  1987
    
-2.Country Which Has Highest suicides_no :  Russian Federation
-  Country Which Has Lowest suicides_no  :  Albania
+2. Country Which Has Highest suicides_no :  Russian Federation
+   Country Which Has Lowest suicides_no  :  Albania
 
 3. Middle aged adults, between the ages of 30 through 60, have the highest suicide count.
 
